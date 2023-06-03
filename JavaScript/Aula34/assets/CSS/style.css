@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(63, 216, 165);
+}
+
+.container{
+    background-color: aliceblue;
+    width: 750px;
+    height: 150px;
+    max-width: 700px;
+    margin: 90px auto;
+    padding: 10px;
+    border-radius: 10px;
+    /* text-align: center; */
+}
